@@ -1,0 +1,39 @@
+body{
+  background-color: #ef476f;
+}
+
+p{
+  font-family:'MrsBeasleyRegular';
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
+
+li{
+  font-family: 'MrsBeasleyRegular';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 5em;
+  color:#ef476f;
+  text-align: center;
+  
+}
+
+a:hover{
+  color:white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:link{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
+
+
+
+

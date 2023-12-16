@@ -1,0 +1,73 @@
+h1{
+  font-family: 'TranscendsGamesMedium';
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  background-color: #a8dadc;
+}
+
+table{
+  margin: auto;
+}
+
+td{
+  width: 50px;
+  height: 500px;
+}
+
+#one{
+  background-color: #05668D;
+}
+
+#two{
+  background-color: #028090;
+}  
+
+#three{
+  background-color: #00A896;
+}
+
+#four{
+  background-color: #02C39A;
+}
+
+#five{
+  background-color: #F0F3BD;
+}
+
+a:hover{
+  color: #dda15e;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+p{
+  font-size: 2em;
+  font-family: 'GamalielMedium';
+  font-weight: normal;
+  font-style: normal;
+}
+
+#six{
+  font-size: 2em;
+  font-family: 'GamalielMedium';
+  font-weight: normal;
+  font-style: normal;
+  color:orange;
+}
+
+a:link{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a{
+  font-size: 2em;
+  font-family: 'GamalielMedium';
+  font-weight: normal;
+  font-style: normal;
+  color:orange; 
+}

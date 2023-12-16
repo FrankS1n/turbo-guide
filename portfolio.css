@@ -1,0 +1,30 @@
+body{
+  background-color: #dda15e;
+}
+
+p{
+  font-size: 3em;
+  font-family: 'GamalielMedium';
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+}
+
+table{
+  margin: auto;
+}
+
+
+a:hover{
+  color: #c93434;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:link{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
